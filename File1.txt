@@ -1,9 +1,3 @@
 testing line update
 untesting line
 commit test
-456
-789
-101112.
-new branch line
-new line for GUI newww
-main
